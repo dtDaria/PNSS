@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: "Zen Maru Gothic";
+    height: 1920px;
+    background-color: #f8f8f8;
+}
+
+.header3{
+    width: 100%;
+    height: 65px;
+    background-color:#790D0D ;
+}
+.header3>p{
+    text-align: center;
+    padding-top: 19px;
+    font-size: 19pt;
+    text-decoration: none;
+    color: #f8f8f8;
+}
+.dis{
+    margin-top: 50px;
+    font-size: 30pt;
+}
+.dis1{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+
+}
+.dis1>input{
+    margin-top: 20px;
+    height: 30px;
+    width: 260px;
+    margin-left: 43%;
+}
+.dis1> button{
+    margin-top: 60px;
+    height: 30px;
+    width: 150px;
+    margin-left: 46%;
+}

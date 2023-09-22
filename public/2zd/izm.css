@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Zen Maru Gothic";
+    height: 1920px;
+    background-color: #f8f8f8;
+}
+
+.header4 {
+    display: flex;
+    width: 100%;
+    height: 65px;
+    background-color: #790D0D;
+}
+
+.header4 > p {
+    text-align: center;
+    padding-top: 19px;
+    font-size: 19pt;
+    color: #f8f8f8;
+    margin: 0 auto;
+    padding-left: 225px;
+}
+
+.header4 >a{
+    text-decoration: none;
+    font-size: 19pt;
+    color: #f8f8f8;
+    padding-top: 19px;
+    margin-right: 50px;
+}
+
+.izm1 {
+    margin-top: 50px;
+    font-size: 30pt;
+}
+
+.izm1 {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+
+}
+
+.izm1 > input {
+    margin-top: 20px;
+    height: 30px;
+    width: 260px;
+    margin-left: 43%;
+}
+
+.izm2 > button {
+    margin-top: 60px;
+    height: 30px;
+    width: 150px;
+    margin-left: 46%;
+}
+
